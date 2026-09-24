@@ -1,0 +1,24 @@
+# Core data and scientific computing
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Statistics
+statsmodels
+
+# Visualization
+matplotlib
+plotly
+
+# Notebook environment
+jupyter
+ipykernel
+
+# Testing
+pytest
